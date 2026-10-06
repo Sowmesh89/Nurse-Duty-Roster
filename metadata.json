@@ -1,0 +1,6 @@
+{
+  "name": "Kauvery Care NurseRoster & Manpower Pro",
+  "description": "Hospital nursing duty roster, daily manpower utilization tracker, real-time shift swaps, automated leave approvals, offline mode, and HMS integration.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
