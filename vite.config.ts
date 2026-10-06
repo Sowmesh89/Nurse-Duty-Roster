@@ -6,6 +6,9 @@ import {defineConfig} from 'vite';
 export default defineConfig({
   base: '/Nurse-Duty-Roster/',
   plugins: [react()],
+  define: {
+    'process.env': {},
+  },
 });
 
 
