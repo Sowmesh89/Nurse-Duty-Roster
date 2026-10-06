@@ -4,7 +4,7 @@ import path from 'path';
 import {defineConfig} from 'vite';
 
 export default defineConfig({
-  base: '/<https://github.com/Sowmesh89/Nurse-Duty-Roster.git>/', // Replace <repository-name> with the exact name of your GitHub repo
+  base: '/<https://github.com/Sowmesh89/Nurse-Duty-Roster>/', // Replace <repository-name> with the exact name of your GitHub repo
   plugins: [react()],
 });
 
