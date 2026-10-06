@@ -3,8 +3,11 @@ import react from '@vitejs/plugin-react';
 import path from 'path';
 import {defineConfig} from 'vite';
 
+import { defineConfig } from 'vite';
+import react from '@vitejs/plugin-react';
+
 export default defineConfig({
-  base: '/<https://github.com/Sowmesh89/Nurse-Duty-Roster>/', // Replace <repository-name> with the exact name of your GitHub repo
+  base: '/Nurse-Duty-Roster/',
   plugins: [react()],
 });
 
